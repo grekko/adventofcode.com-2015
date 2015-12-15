@@ -1,5 +1,3 @@
-require 'byebug'
-
 input = IO.binread(File.expand_path('../input.txt', __FILE__)).chomp
 
 class Package
